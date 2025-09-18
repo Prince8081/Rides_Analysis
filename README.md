@@ -20,7 +20,7 @@
 * Designed a **Power BI dashboard** with:
 
   * KPI Cards
-  * Ride Trends by Hour/Date
+  * Ride Trends by Hour
   * Service Type Performance
   * Payment Method Split
   * Cancellation Analysis
