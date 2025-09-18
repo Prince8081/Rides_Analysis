@@ -7,7 +7,7 @@
 
 ## 🔍 Project Highlights
 
-* Cleaned and transformed raw ride data (dates, times, fares, cancellations) using **Pandas**
+* Cleaned and transformed raw ride data (dates, fares, cancellations) using **Pandas**
 * Loaded processed data into **MySQL** for querying
 * Wrote **SQL queries** to calculate KPIs:
 
