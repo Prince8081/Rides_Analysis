@@ -35,9 +35,10 @@ print("\n✅ Cleaned data saved as 'cleaned_rides_data.csv'")
 from sqlalchemy import create_engine
 import pandas as pd
 
-engine = create_engine("mysql+pymysql://root:pri8073@localhost/ride_analysis")
+engine = create_engine("mysql+pymysql://root:***@localhost/ride_analysis")
 
 
 df.to_sql("df", con=engine, if_exists="replace", index=False)
 
 print("✅ Cleaned data successfully loaded into MySQL!")
+
